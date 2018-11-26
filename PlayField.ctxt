@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayField
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=PlayField()
+comment1.text=\n\ TODO\ (5)\:\ Declare\ a\ default\ constructor\ for\ PlayField\n\ \ \n\ TODO\ (6)\:\ Use\ the\ superclass'\ constructor\ to\ create\ a\ world\n\ \ \ \ \ \ \ \ \ \ \ with\ 800\ by\ 600\ cells\ with\ a\ cell\ size\ of\ 1x1\ pixels\n\ \ \ \ \ \ \ \ \ \ \ \n\ TODO\ (15)\:\ Make\ a\ method\ call\ to\ the\ initializePlayingField\ method\n
+numComments=2
