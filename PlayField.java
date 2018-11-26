@@ -77,11 +77,11 @@ public class PlayField extends World
     
     
     /**
-     * TODO (67): Declare the act method for the PlayField class
+     * TODO (61): Declare the act method for the PlayField class
      * 
-     * TODO (68): If the game has not started...
+     * TODO (62): If the game has not started...
      * 
-     *      TODO (69): Use a method to check if the space bar key has been pressed 
+     *      TODO (63): Use a method to check if the space bar key has been pressed 
      * 
      * TODO (80): Otherwise...
      * 
@@ -103,18 +103,18 @@ public class PlayField extends World
      */
     
     /**
-     * TODO (61): Declare a public method called reset that does not return
+     * TODO (64): Declare a public method called reset that does not return
      *            anything and has no parameters
      *            
-     * TODO (62): Set the theBall variable to a new Ball object
+     * TODO (65): Set the theBall variable to a new Ball object
      * 
-     * TODO (63): Add theBall in the middle of the world
+     * TODO (66): Add theBall in the middle of the world
      * 
-     * TODO (64): Set the velocity of theBall to 0
+     * TODO (67): Set the velocity of theBall to 0
      * 
-     * TODO (65): Use the show text method to display that the user should Press the space bar to begin at an x location of 200 and a y location of 550
+     * TODO (68): Use the show text method to display that the user should Press the space bar to begin at an x location of 200 and a y location of 550
      * 
-     * TODO (66): Set the startGame variable to false
+     * TODO (69): Set the startGame variable to false
      */
     
     /**
